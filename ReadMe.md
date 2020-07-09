@@ -2,8 +2,8 @@ Hello Git and GitHub!
 
 # 練習です
 
-*箇条書き１
-*箇条書き２
+* 箇条書き１
+* 箇条書き２
 
 ```python
 import numpy as np
